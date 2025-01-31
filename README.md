@@ -6,7 +6,7 @@ sensor. The data is transmitted from the Arduino Uno to the ESP32 via a UART com
 temperature, room temperature, humidity, heart rate, and SpO2 levels, and prepares it for display on the web server. This integration ensures seamless communication and accurate data representation for caregivers.
 
 ### Block Diagram
-![img1]()
+![img1](img2.png)
 ## Features
 - **Real-time health monitoring** through an ESP32 web server.
 - **Multi-sensor integration** for comprehensive health tracking:
