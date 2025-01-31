@@ -37,7 +37,7 @@ temperature, room temperature, humidity, heart rate, and SpO2 levels, and prepar
 
 
 ### Experimental Setup
-![img3](experimental setup.png)
+![img3](https://github.com/Anushiya04/IOT--BASED-HEALTHCARE-MONITORING-WITH-REAL-TIME-ALERTS-VIA-TWILIO-API/blob/35245dfe6f4947ec150e1ee80d140583e35d1da7/experimental%20setup.png)
 ### Webserver Display
 
 ### Alerts via Twilio API
