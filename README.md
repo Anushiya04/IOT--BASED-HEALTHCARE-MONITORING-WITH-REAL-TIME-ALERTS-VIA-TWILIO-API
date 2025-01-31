@@ -31,11 +31,7 @@ temperature, room temperature, humidity, heart rate, and SpO2 levels, and prepar
   - Arduino IDE for programming ESP32
   - HTML/CSS for the web server UI
 ###  Pin Diagram
-
-
-
-
-
+![img2](https://github.com/Anushiya04/IOT--BASED-HEALTHCARE-MONITORING-WITH-REAL-TIME-ALERTS-VIA-TWILIO-API/blob/60e1eb4ae056a4de6d86b221254d6a5213525cd0/circuit.png)
 ### Experimental Setup
 ![img3](https://github.com/Anushiya04/IOT--BASED-HEALTHCARE-MONITORING-WITH-REAL-TIME-ALERTS-VIA-TWILIO-API/blob/35245dfe6f4947ec150e1ee80d140583e35d1da7/experimental%20setup.png)
 ### Webserver Display
