@@ -37,7 +37,7 @@ temperature, room temperature, humidity, heart rate, and SpO2 levels, and prepar
 
 
 ### Experimental Setup
-
+![img3](experimental setup.png)
 ### Webserver Display
 
 ### Alerts via Twilio API
